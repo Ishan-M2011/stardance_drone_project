@@ -1,0 +1,21 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+Readytosky 250mm Carbon-Fiber Drone Frame,1,$27.99,Amazon,Main drone structure
+Pixhawk PX4 2.4.8 Flight Controller Kit,1,$158.99,Amazon,Flight stabilization and control
+Readytosky RS2205 2300KV Brushless Motors,4,$36.99,Amazon,Four motors; price is total for the set
+AERO SELFIE 45A 4-in-1 ESC,1,$22.90,Amazon,Controls speeds of four motors
+QWinOut XT60 Power Distribution Board,1,$4.84,Amazon,Distributes battery power
+OVONIC 4S 2200mAh 35C LiPo Battery,1,$23.99,Amazon,Original 14.8V battery; one only
+FlySky FS-i6 Transmitter + FS-iA6B Receiver,1,$52.99,Amazon,Remote controller and receiver set
+"CanaKit Raspberry Pi 4 Model B, 4GB Kit",1,$124.99,Amazon,Runs AI detection system
+OV5647 5MP Raspberry Pi Camera,1,$12.99,Amazon,Captures images for AI detection
+HC-SR04 Ultrasonic Distance Sensors,3,$6.99,Amazon,Distance and obstacle sensing; price is total
+ALFA AWUS036ACM USB Wi-Fi Adapter,1,$59.99,Amazon,Wireless communication
+Tosiicop LiPo Battery Charger,1,$24.99,Amazon,LiPo battery charger; estimated price
+Laptop / Computer,1,$0.00,N/A,Already owned; used for programming and testing
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$558.64,,,
