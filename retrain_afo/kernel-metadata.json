@@ -1,0 +1,15 @@
+{
+  "id": "reporterdude121/drone-afo-retrain",
+  "title": "Drone AFO Retrain",
+  "code_file": "train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "reporterdude121/drone-rescue-weights",
+    "jangsienicajzkowy/afo-aerial-dataset-of-floating-objects"
+  ]
+}

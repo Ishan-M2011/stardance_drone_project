@@ -1,0 +1,29 @@
+# Python temporary files
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+
+# Private configuration
+.env
+.env.*
+kaggle.json
+
+# Large trained models and datasets
+*.pt
+*.pth
+*.zip
+*.cache
+models/
+data/
+datasets/
+kaggle_weights/
+
+# Kaggle results
+results/
+training_results/
+multi_training_results/
+evaluation_results/
+downloaded/
+runs/
+*.log

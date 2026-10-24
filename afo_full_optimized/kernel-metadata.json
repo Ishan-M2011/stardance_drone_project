@@ -1,0 +1,15 @@
+
+{
+  "id": "reporterdude121/drone-ai-afo-optimized",
+  "title": "Drone AI AFO Optimized",
+  "code_file": "train.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "jangsienicajzkowy/afo-aerial-dataset-of-floating-objects"
+  ]
+}

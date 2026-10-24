@@ -1,0 +1,6 @@
+Experiment	Images	Confidence	Resolution	Detection rate
+Initial	25	0.20	960	56%
+Lower confidence	25	0.10	960	    60%
+Higher resolution	25	0.10	1280	64%
+Latest 25-image test	25	0.10	1280	68%
+100-image baseline	100	0.10	1280	66%

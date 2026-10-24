@@ -1,0 +1,17 @@
+{
+  "id": "reporterdude121/drone-ai-evaluation",
+  "title": "Drone AI Evaluation",
+  "code_file": "evaluate.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "nikolasgegenava/sard-2-search-and-rescue-dataset-extra-classes"
+  ],
+  "kernel_sources": [
+    "reporterdude121/drone-ai"
+  ]
+}

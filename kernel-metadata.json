@@ -1,0 +1,15 @@
+
+{
+  "id": "reporterdude121/drone-ai-afo-training",
+  "title": "Drone AI AFO Training",
+  "code_file": "train_afo.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_internet": "true",
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "jangsienicajzkowy/afo-aerial-dataset-of-floating-objects"
+  ]
+}
