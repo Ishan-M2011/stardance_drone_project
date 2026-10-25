@@ -74,7 +74,7 @@ Also, I'm planning on using a simulation to test the AI, alongside the final goa
 
 <img src="./assets/Screenshot 2026-10-07 at 11.16.02 PM.png">
 
-
+Demo URL if StarDance link is expired: https://streamable.com/lt0l03
 ---
 
 
